@@ -78,9 +78,9 @@ const RESOURCES = {".git/config": "8804dd5c6a3d80ec6f3a2a33cc78bad5",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "46fd78cecfa18354b1732a75f08d9af5",
-"/": "46fd78cecfa18354b1732a75f08d9af5",
-"main.dart.js": "8cabb2550f21b6dc7d9810718f6176fe",
+"index.html": "24d2663e203cfa3a1e03e77c950618a8",
+"/": "24d2663e203cfa3a1e03e77c950618a8",
+"main.dart.js": "293ef7e7d6c7130b17f8c81490926ef5",
 "manifest.json": "f59cbbc25e3eb95cbf5cc55349e17f17",
 "version.json": "aa4dd5ad1207e1675725e42190245d1c"};
 // The application shell files that are downloaded before a service worker can
